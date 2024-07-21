@@ -1,7 +1,7 @@
 /*
-作者: imsyy
-主页：https://www.imsyy.top/
-GitHub：https://github.com/imsyy/home
+作者: Wisdom
+主页：https://zy.mccdxp.top/
+GitHub：https://github.com/wisdom798/home
 版权所有，请勿删除
 */
 
